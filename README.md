@@ -3,5 +3,9 @@
 ### test
 
 ```
+pipenv install --dev
+```
+
+```
 pipenv run pytest
 ```
