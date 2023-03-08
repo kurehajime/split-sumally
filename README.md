@@ -3,7 +3,7 @@
 ### test
 
 ```
-pipenv install --dev
+pipenv sync --dev
 ```
 
 ```
